@@ -1,0 +1,45 @@
+#about {
+    color: white; /* for example, if needed at all */
+    /* ...and anything else for content in this section */    
+  }
+  ​
+  .projects {
+    color: white; /* for example, if needed at all */
+    background-color: black;
+    /* ...and anything else for content inside this section */
+  }
+  ​
+  .about {
+    color: white; /* for example, if needed at all */
+    background-color: black;
+    /* ...and anything else for content inside this section */
+  }
+  ​
+  /* one for each unique project, below, for example... */
+  #project1of3 {
+    color: white; /* for example, if needed at all */
+    /* ...and anything else for content inside this article */
+  }
+  ​
+  #project2of3 {
+    color: white; /* for example, if needed at all */
+    /* ...and anything else for content inside this article */
+  }
+  ​
+  #project3of3 {
+    color: white; /* for example, if needed at all */
+    /* ...and anything else for content inside this article */
+  }
+  /* one for each unique project, above, for example */
+  ​
+  .projects2 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: left;
+    align-items: stretch;
+  }
+  
+  #entire {
+    background-color: black;
+  }​
